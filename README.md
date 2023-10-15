@@ -1,2 +1,2 @@
-# MERN-TASK-_1
-This is our assignment done with web development tour...
+# MERN-Tasks
+Internship Tasks
